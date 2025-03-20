@@ -3,6 +3,7 @@
 Welcome to the FastNotebook Project! This project is designed to help users quickly set up a personal notebook application with various features for managing notes, comments, galleries, and more.
 
 ![PHP8.2](https://img.shields.io/badge/PHP-8.2%2B-%23268af1#pic_center)
+![Mysql5.7](https://img.shields.io/badge/Mysql-5.7%2B-%23268af1#pic_center)
 ![Laravel](https://img.shields.io/badge/Laravel-10%2B-%23268af1#pic_center)
 ![License](https://img.shields.io/badge/License-MIT-%23268af1#pic_center)
 
