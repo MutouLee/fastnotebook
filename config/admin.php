@@ -73,7 +73,7 @@ return [
 
         'middleware' => ['web', 'admin'],
 
-        'enable_session_middleware' => false,
+        'enable_session_middleware' => true,
     ],
 
     /*
@@ -158,7 +158,7 @@ return [
             'auth/logout',
         ],
 
-        'enable_session_middleware' => false,
+        'enable_session_middleware' => true,
     ],
 
     /*
